@@ -1,14 +1,17 @@
 [
-  {
-    "first_name": "Oskar",
-    "last_name": "Juszczak"
+  {"first_name": "Alice",
+    "last_name": "Smith"
   },
-  {
-    "first_name": "Dominik",
-    "last_name": "Strzelecki"
+  {"first_name": "Bob",
+    "last_name": "Johnson"
   },
-  {
-    "first_name": "Marek",
-    "last_name": "Nowak"
+  {"first_name": "Charlie",
+    "last_name": "Williams"
+  },
+  {"first_name": "Diana",
+    "last_name": "Brown"
+  },
+  {"first_name": "Ethan",
+    "last_name": "Jones"
   }
 ]
