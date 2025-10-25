@@ -1,17 +1,22 @@
 [
-  {"first_name": "Alice",
+  {
+    "first_name": "Alice",
     "last_name": "Smith"
   },
-  {"first_name": "Bob",
+  {
+    "first_name": "Bob",
     "last_name": "Johnson"
   },
-  {"first_name": "Charlie",
+  {
+    "first_name": "Charlie",
     "last_name": "Williams"
   },
-  {"first_name": "Diana",
+  {
+    "first_name": "Diana",
     "last_name": "Brown"
   },
-  {"first_name": "Ethan",
+  {
+    "first_name": "Ethan",
     "last_name": "Jones"
   }
 ]
