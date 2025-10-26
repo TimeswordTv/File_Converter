@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 name,age,salary
 Alice,25,55000.5
 Bob,30,62000
 Charlie,22,48000
+=======
+first_name,last_name
+Alice,Johnson
+Bob,Smith
+Charlie,Williams
+Diana,Jones
+Ethan,Brown
+>>>>>>> 8487b3bea3bf55dca23e7d8a6885437ed1cae0c7

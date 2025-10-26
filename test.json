@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "name": "Alice",
     "age": 25,
     "salary": 55000.5
@@ -15,3 +16,25 @@
     "salary": 48000
   }
 ]
+=======
+    "first_name": "Alice",
+    "last_name": "Johnson"
+  },
+  {
+    "first_name": "Bob",
+    "last_name": "Smith"
+  },
+  {
+    "first_name": "Charlie",
+    "last_name": "Williams"
+  },
+  {
+    "first_name": "Diana",
+    "last_name": "Jones"
+  },
+  {
+    "first_name": "Ethan",
+    "last_name": "Brown"
+  }
+]
+>>>>>>> 8487b3bea3bf55dca23e7d8a6885437ed1cae0c7
